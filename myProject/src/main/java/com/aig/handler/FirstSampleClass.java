@@ -11,7 +11,8 @@ public class FirstSampleClass {
 		
 		z = i + j;
 		System.out.println(z);
-		System.out.println("Change made here");
+		System.out.println("1st Change made here");
+		System.out.println("2nd Change made here");
 
 	}
 
